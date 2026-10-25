@@ -13,17 +13,17 @@ Si te interesan las estafas reales, mira también la de Madoff: https://www.yout
 
 Capítulos:
 00:00 Gancho
-00:30 Presentación del canal
-00:41 Pagos de los que nadie hablaba
-01:12 El niño prodigio de la bolsa alemana
-01:55 Las preguntas del Financial Times
-03:05 Disparar al mensajero
-04:04 La auditoría especial
-04:37 Mil novecientos millones en Filipinas
-05:41 Una semana
-06:13 El hombre que desapareció
-06:52 El juicio interminable
-07:31 Lo que nos deja esta historia
+00:27 Presentación del canal
+00:38 Pagos de los que nadie hablaba
+01:07 El niño prodigio de la bolsa alemana
+01:48 Las preguntas del Financial Times
+02:54 Disparar al mensajero
+03:50 La auditoría especial
+04:21 Mil novecientos millones en Filipinas
+05:23 Una semana
+05:52 El hombre que desapareció
+06:29 El juicio interminable
+07:05 Lo que nos deja esta historia
 
 Contenido educativo, no es recomendación de inversión. Voz e imágenes generadas en parte con IA.
 
