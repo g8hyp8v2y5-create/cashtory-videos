@@ -1,0 +1,363 @@
+1
+00:00:00,000 --> 00:00:04,216
+Dieciséis mil trescientos millones de dólares de ingresos en solo seis meses.
+
+2
+00:00:04,216 --> 00:00:08,160
+Y, en el mismo periodo, una pérdida de ochenta mil setecientos millones.
+
+3
+00:00:08,610 --> 00:00:12,866
+Son las cuentas de Anthropic, la empresa que creó la inteligencia artificial Claude.
+
+4
+00:00:12,866 --> 00:00:16,463
+Hoy las ha hecho públicas por primera vez, porque quiere salir a bolsa.
+
+5
+00:00:16,463 --> 00:00:20,009
+Y esa pérdida gigante esconde un truco contable que te voy a explicar.
+
+6
+00:00:21,459 --> 00:00:24,068
+Esto es Cashtory, historias reales de dinero.
+
+7
+00:00:24,068 --> 00:00:27,720
+Este video es educativo y no es una recomendación de inversión.
+
+8
+00:00:29,169 --> 00:00:34,047
+Este lunes, Anthropic presentó ante la SEC, el regulador de la bolsa de Estados
+
+9
+00:00:34,047 --> 00:00:38,123
+Unidos, el documento que toda empresa necesita para salir a bolsa.
+
+10
+00:00:38,123 --> 00:00:43,124
+Se llama folleto de emisión, o S-1, y obliga a enseñar las cuentas, los riesgos y
+
+11
+00:00:43,124 --> 00:00:44,729
+quién manda en la empresa.
+
+12
+00:00:45,180 --> 00:00:49,543
+Anthropic quiere cotizar en el Nasdaq, la bolsa estadounidense de las grandes
+
+13
+00:00:49,543 --> 00:00:51,640
+tecnológicas, con el símbolo A, N, T.
+
+14
+00:00:52,090 --> 00:00:56,380
+Lo que todavía no sabemos es el precio de cada acción ni cuántas acciones va a
+
+15
+00:00:56,380 --> 00:00:56,765
+vender.
+
+16
+00:00:56,765 --> 00:01:01,330
+Esos huecos están en blanco en el documento, y se rellenan en las próximas semanas.
+
+17
+00:01:02,780 --> 00:01:05,162
+Mira cómo han crecido sus ingresos.
+
+18
+00:01:05,162 --> 00:01:08,565
+En 2023 facturó cuarenta y un millones de dólares.
+
+19
+00:01:08,565 --> 00:01:11,628
+En 2024, trescientos ochenta y seis millones.
+
+20
+00:01:11,628 --> 00:01:15,440
+En 2025, cuatro mil quinientos ochenta y cinco millones.
+
+21
+00:01:15,890 --> 00:01:21,062
+Y en el primer semestre de 2026, dieciséis mil doscientos ochenta y seis millones.
+
+22
+00:01:21,062 --> 00:01:25,919
+Un año antes, en el mismo semestre, había facturado mil ciento sesenta y tres
+
+23
+00:01:25,919 --> 00:01:26,486
+millones.
+
+24
+00:01:26,486 --> 00:01:30,650
+Es decir, ha multiplicado sus ingresos por catorce en solo un año.
+
+25
+00:01:31,100 --> 00:01:33,190
+Casi todo ese dinero viene de empresas.
+
+26
+00:01:33,190 --> 00:01:37,638
+Las que gastan más de cien mil dólares al año con Anthropic ya son más de seis mil,
+
+27
+00:01:37,638 --> 00:01:40,800
+y aportan cerca de tres de cada cuatro dólares que ingresa.
+
+28
+00:01:42,250 --> 00:01:43,828
+Ahora, la cifra que asusta:
+
+29
+00:01:43,828 --> 00:01:48,623
+una pérdida de ochenta mil setecientos cuarenta y ocho millones de dólares en seis
+
+30
+00:01:48,623 --> 00:01:48,974
+meses.
+
+31
+00:01:48,974 --> 00:01:50,786
+Parece que la empresa se hunde.
+
+32
+00:01:50,786 --> 00:01:52,950
+Pero no es así, y aquí está la clave.
+
+33
+00:01:53,400 --> 00:01:57,796
+Si miras solo el negocio, es decir, lo que ingresa menos lo que gasta en funcionar,
+
+34
+00:01:57,796 --> 00:02:00,656
+la pérdida fue de seiscientos noventa y tres millones.
+
+35
+00:02:00,656 --> 00:02:04,840
+Hace un año, en el mismo semestre, había perdido dos mil ciento treinta y cinco
+
+36
+00:02:04,840 --> 00:02:05,317
+millones.
+
+37
+00:02:05,317 --> 00:02:07,860
+El negocio está cerca de dejar de perder dinero.
+
+38
+00:02:08,310 --> 00:02:12,743
+Entonces, ¿de dónde salen los otros ochenta mil millones?
+
+39
+00:02:12,743 --> 00:02:18,889
+Casi todo, setenta y dos mil trescientos ochenta y ocho millones, viene de algo
+
+40
+00:02:18,889 --> 00:02:23,790
+llamado cambio en el valor razonable de sus notas convertibles.
+
+41
+00:02:24,240 --> 00:02:25,135
+Te lo explico fácil.
+
+42
+00:02:25,135 --> 00:02:27,732
+Anthropic pidió dinero prestado a inversores con un trato:
+
+43
+00:02:27,732 --> 00:02:29,568
+esa deuda se puede convertir en acciones.
+
+44
+00:02:29,568 --> 00:02:33,151
+Como la empresa vale cada vez más, esas futuras acciones también valen más, y la
+
+45
+00:02:33,151 --> 00:02:36,151
+contabilidad obliga a apuntar esa subida como si fuera una pérdida.
+
+46
+00:02:36,151 --> 00:02:37,316
+No sale dinero de la caja.
+
+47
+00:02:37,316 --> 00:02:40,719
+Es una pérdida en el papel, y la propia empresa explica que se debe a que su
+
+48
+00:02:40,719 --> 00:02:41,660
+valoración ha subido.
+
+49
+00:02:43,110 --> 00:02:44,574
+¿En qué gasta Anthropic?
+
+50
+00:02:44,574 --> 00:02:46,161
+Sobre todo en computación:
+
+51
+00:02:46,161 --> 00:02:51,225
+ocho mil novecientos cuarenta y cinco millones en seis meses, para entrenar y hacer
+
+52
+00:02:51,225 --> 00:02:55,070
+funcionar sus modelos en chips de Amazon, Google, Nvidia y AMD.
+
+53
+00:02:55,520 --> 00:02:59,815
+Además, tres mil ciento cincuenta y dos millones en personal y tres mil ciento
+
+54
+00:02:59,815 --> 00:03:02,900
+sesenta y ocho millones en ventas, marketing y alianzas.
+
+55
+00:03:03,350 --> 00:03:04,658
+Y un dato del año pasado:
+
+56
+00:03:04,658 --> 00:03:08,948
+en 2025 apuntó mil quinientos millones por el acuerdo Bartz, el pacto con un grupo
+
+57
+00:03:08,948 --> 00:03:13,134
+de autores que la demandaron por usar sus libros para entrenar a su inteligencia
+
+58
+00:03:13,134 --> 00:03:13,709
+artificial.
+
+59
+00:03:14,159 --> 00:03:16,209
+¿Y cuánto dinero tiene en el banco?
+
+60
+00:03:16,209 --> 00:03:21,012
+A finales de junio, ciento treinta y un mil seiscientos cincuenta y un millones de
+
+61
+00:03:21,012 --> 00:03:23,999
+dólares entre efectivo e inversiones a corto plazo.
+
+62
+00:03:25,449 --> 00:03:27,007
+Aquí hay algo poco habitual.
+
+63
+00:03:27,007 --> 00:03:31,344
+Anthropic es una corporación de beneficio público, una figura legal de Estados
+
+64
+00:03:31,344 --> 00:03:35,737
+Unidos que obliga a la empresa a equilibrar el dinero de los accionistas con un
+
+65
+00:03:35,737 --> 00:03:36,293
+propósito:
+
+66
+00:03:36,293 --> 00:03:39,629
+desarrollar la inteligencia artificial de forma responsable.
+
+67
+00:03:40,079 --> 00:03:44,742
+Para vigilarlo creó un fideicomiso independiente, el Long-Term Benefit Trust, que, a
+
+68
+00:03:44,742 --> 00:03:49,016
+través de una clase especial de acciones, puede elegir a parte del consejo de
+
+69
+00:03:49,016 --> 00:03:49,848
+administración.
+
+70
+00:03:49,848 --> 00:03:54,399
+Quien compre acciones en bolsa tendrá voz, pero no el control total de la empresa.
+
+71
+00:03:55,849 --> 00:03:58,901
+En Estados Unidos, la noticia ya movió el mercado.
+
+72
+00:03:58,901 --> 00:04:03,968
+Este lunes, el S&P 500 y el Nasdaq subieron, con las empresas de chips como Nvidia,
+
+73
+00:04:03,968 --> 00:04:08,789
+Broadcom y Micron a la cabeza, porque Anthropic es uno de sus grandes clientes.
+
+74
+00:04:09,239 --> 00:04:12,891
+En España, cuando la acción empiece a cotizar, se podrá comprar a través de
+
+75
+00:04:12,891 --> 00:04:16,737
+cualquier bróker o banco con acceso al Nasdaq, igual que se compran acciones de
+
+76
+00:04:16,737 --> 00:04:17,759
+Apple o de Microsoft.
+
+77
+00:04:18,209 --> 00:04:20,683
+Pero el propio folleto avisa de los riesgos:
+
+78
+00:04:20,683 --> 00:04:25,124
+gasta muchísimo en computación, depende de pocos clientes grandes y compite con
+
+79
+00:04:25,124 --> 00:04:27,429
+gigantes como OpenAI, Google y Microsoft.
+
+80
+00:04:27,429 --> 00:04:31,926
+Por eso, antes de invertir en cualquier salida a bolsa, conviene leer el folleto
+
+81
+00:04:31,926 --> 00:04:33,950
+completo y entender en qué te metes.
+
+82
+00:04:35,399 --> 00:04:39,440
+En las próximas semanas, Anthropic publicará el precio de salida y el número de
+
+83
+00:04:39,440 --> 00:04:39,900
+acciones.
+
+84
+00:04:39,900 --> 00:04:44,197
+Después vendrá el primer día de cotización, y ahí veremos cuánto valora el mercado a
+
+85
+00:04:44,197 --> 00:04:44,759
+la empresa.
+
+86
+00:04:45,209 --> 00:04:47,169
+Te lo contaremos aquí en cuanto pase.
+
+87
+00:04:48,619 --> 00:04:53,262
+¿Tú comprarías acciones de una empresa que factura dieciséis mil millones y, en el
+
+88
+00:04:53,262 --> 00:04:54,734
+papel, pierde ochenta mil?
+
+89
+00:04:54,734 --> 00:04:56,319
+Déjamelo en los comentarios.
+
+90
+00:04:56,769 --> 00:05:01,088
+Si te gustó el video o te pareció interesante, dale like y suscríbete.
+
+91
+00:05:01,088 --> 00:05:03,309
+No te cuesta nada y me ayudas mucho.
