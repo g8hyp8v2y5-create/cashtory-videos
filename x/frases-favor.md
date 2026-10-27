@@ -1,5 +1,5 @@
 # Frases de favor para X (aprobadas por Christian el 25-oct-2026)
-Orden de rotación: C1, A1, B1, C2, A2, B2, C3, A3, B3, C4. Usadas: C1 Madoff, A1 Wirecard, B1 Fed, C2 SBF, A2 Markopolos. Usada B2 Anthropic. Siguiente: C3.
+Orden de rotación: C1, A1, B1, C2, A2, B2, C3, A3, B3, C4. Usadas: C1 Madoff, A1 Wirecard, B1 Fed, C2 SBF, A2 Markopolos. Usada B2 Anthropic, C3 EPA. Siguiente: A3.
 
 A1. 🙏 Detrás de este post hay horas de investigación y cifras comprobadas. Si te aportó algo, comparte y retuitea, suscríbete al canal de YouTube y síguenos en X. No te cuesta nada y nos ayudas muchísimo.
 A2. 🙏 Cada dato de este post lo revisamos fuente por fuente. Si te sirvió, comparte y retuitea, suscríbete en YouTube y síguenos aquí en X. Es gratis y nos ayuda mucho.
