@@ -1,0 +1,48 @@
+{
+ "modelo_voz": "gemini-3.8-flash-tts",
+ "modelo_imagen": "gemini-3.1-flash-image",
+ "estilo_imagen": "Fotografía cinematográfica, tonos azul oscuro y dorado, luz baja. Sin texto ni logotipos. Sin rostros visibles. No representar a ninguna persona real.",
+ "titulo": "La FED SE FRENA… pero 2 votaron por SUBIR los tipos",
+ "voz": "Charon",
+ "estilo_voz": "Presentador de noticias económicas de última hora, voz masculina enérgica y cercana, con acento de España (castellano peninsular, distinguiendo la ce y la zeta de la ese). Transmite importancia y claridad: ritmo ágil, frases con fuerza, sin gritar ni dramatizar. Tutea al oyente.",
+ "max_imagenes_gemini": 0,
+ "portada": "LA FED SE FRENA\n3,75 – 4 %",
+ "bloques": {
+  "Gancho": {
+   "pixabay": []
+  },
+  "Presentación del canal": {
+   "pixabay": []
+  },
+  "Qué es la Fed": {
+   "pixabay": []
+  },
+  "Qué decidió hoy": {
+   "pixabay": []
+  },
+  "De dónde venimos": {
+   "pixabay": []
+  },
+  "Lo que se esperaba": {
+   "pixabay": []
+  },
+  "Lo que dice el comunicado": {
+   "pixabay": []
+  },
+  "Lo que dijo Warsh": {
+   "pixabay": []
+  },
+  "Lo que viene ahora": {
+   "pixabay": []
+  },
+  "Qué significa en Estados Unidos": {
+   "pixabay": []
+  },
+  "Qué significa en España": {
+   "pixabay": []
+  },
+  "Cierre": {
+   "pixabay": []
+  }
+ }
+}
