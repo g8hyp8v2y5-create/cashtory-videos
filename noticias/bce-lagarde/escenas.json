@@ -1,0 +1,45 @@
+{
+ "modelo_voz": "gemini-3.8-flash-tts",
+ "modelo_imagen": "gemini-3.1-flash-image",
+ "estilo_imagen": "Fotografía cinematográfica, tonos azul oscuro y dorado, luz baja. Sin texto ni logotipos. Sin rostros visibles. No representar a ninguna persona real.",
+ "titulo": "LAGARDE SE VA del BCE… ¿y tu HIPOTECA?",
+ "voz": "Sulafat",
+ "estilo_voz": "Presentadora de noticias económicas de última hora, voz femenina enérgica y cercana, con acento de España (castellano peninsular, distinguiendo la ce y la zeta de la ese). Transmite importancia y claridad: ritmo ágil, frases con fuerza, sin gritar ni dramatizar. Tutea al oyente.",
+ "max_imagenes_gemini": 0,
+ "portada": "LAGARDE SE VA\nBCE 2,5 %",
+ "bloques": {
+  "Gancho": {
+   "pixabay": []
+  },
+  "Presentación del canal": {
+   "pixabay": []
+  },
+  "Qué es el BCE": {
+   "pixabay": []
+  },
+  "Qué decidió el BCE": {
+   "pixabay": []
+  },
+  "El problema: la energía": {
+   "pixabay": []
+  },
+  "Lagarde se va": {
+   "pixabay": []
+  },
+  "Quién puede sustituirla": {
+   "pixabay": []
+  },
+  "La inflación en España": {
+   "pixabay": []
+  },
+  "La economía española aguanta": {
+   "pixabay": []
+  },
+  "Qué significa para tu hipoteca": {
+   "pixabay": []
+  },
+  "Cierre": {
+   "pixabay": []
+  }
+ }
+}
