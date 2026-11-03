@@ -1,0 +1,21 @@
+{
+ "modelo_voz": "gemini-3.8-flash-tts",
+ "modelo_imagen": "gemini-3.1-flash-image",
+ "estilo_imagen": "Fotografía cinematográfica, tonos azul oscuro y dorado, luz baja. Sin texto ni logotipos. Sin rostros visibles. No representar a ninguna persona real.",
+ "titulo": "ENRON: la EMPRESA que ENGAÑÓ a WALL STREET",
+ "voz": "Sulafat",
+ "estilo_voz": "Presentadora de noticias económicas de última hora, voz femenina enérgica y cercana, con acento de España (castellano peninsular, distinguiendo la ce y la zeta de la ese). Transmite importancia y claridad: ritmo ágil, frases con fuerza, sin gritar.",
+ "max_imagenes_gemini": 0,
+ "portada": "ENRON\nLA EMPRESA QUE ENGAÑÓ A WALL STREET",
+ "bloques": {
+  "Gancho": {"pixabay": []},
+  "Presentación del canal": {"pixabay": []},
+  "La empresa que todos admiraban": {"pixabay": []},
+  "El truco contable": {"pixabay": []},
+  "La caída": {"pixabay": []},
+  "Quién pagó el precio": {"pixabay": []},
+  "El juicio": {"pixabay": []},
+  "Cierre": {"pixabay": []}
+ },
+ "shorts": []
+}

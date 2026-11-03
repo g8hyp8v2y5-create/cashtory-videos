@@ -1,0 +1,23 @@
+{
+ "modelo_voz": "gemini-3.8-flash-tts",
+ "modelo_imagen": "gemini-3.1-flash-image",
+ "estilo_imagen": "Fotografía cinematográfica, tonos azul oscuro y dorado, luz baja. Sin texto ni logotipos. Sin rostros visibles. No representar a ninguna persona real.",
+ "titulo": "LA MENTIRA de 9.000 MILLONES de ELIZABETH HOLMES",
+ "voz": "Sulafat",
+ "estilo_voz": "Presentadora de noticias económicas de última hora, voz femenina enérgica y cercana, con acento de España (castellano peninsular, distinguiendo la ce y la zeta de la ese). Transmite importancia y claridad: ritmo ágil, frases con fuerza, sin gritar.",
+ "max_imagenes_gemini": 0,
+ "portada": "LA MENTIRA\nDE 9.000 MILLONES",
+ "bloques": {
+  "Gancho": {"pixabay": []},
+  "Presentación del canal": {"pixabay": []},
+  "La promesa": {"pixabay": []},
+  "El dinero y la fama": {"pixabay": []},
+  "El problema: la máquina no funcionaba": {"pixabay": []},
+  "La investigación que destapó todo": {"pixabay": []},
+  "El cierre y el juicio": {"pixabay": []},
+  "La condena": {"pixabay": []},
+  "Dónde está hoy": {"pixabay": []},
+  "Cierre": {"pixabay": []}
+ },
+ "shorts": []
+}

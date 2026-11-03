@@ -1,0 +1,21 @@
+{
+ "modelo_voz": "gemini-3.8-flash-tts",
+ "modelo_imagen": "gemini-3.1-flash-image",
+ "estilo_imagen": "Fotografía cinematográfica, tonos azul oscuro y dorado, luz baja. Sin texto ni logotipos. Sin rostros visibles. No representar a ninguna persona real.",
+ "titulo": "1MDB: el FONDO que FINANCIÓ una PELÍCULA de HOLLYWOOD",
+ "voz": "Sulafat",
+ "estilo_voz": "Presentadora de noticias económicas de última hora, voz femenina enérgica y cercana, con acento de España (castellano peninsular, distinguiendo la ce y la zeta de la ese). Transmite importancia y claridad: ritmo ágil, frases con fuerza, sin gritar.",
+ "max_imagenes_gemini": 0,
+ "portada": "1MDB\nEL FONDO QUE FINANCIÓ HOLLYWOOD",
+ "bloques": {
+  "Gancho": {"pixabay": []},
+  "Presentación del canal": {"pixabay": []},
+  "El fondo": {"pixabay": []},
+  "El hombre detrás del dinero": {"pixabay": []},
+  "El banco en el centro del escándalo": {"pixabay": []},
+  "Najib Razak, condenado": {"pixabay": []},
+  "Jho Low, en paradero desconocido": {"pixabay": []},
+  "Cierre": {"pixabay": []}
+ },
+ "shorts": []
+}
