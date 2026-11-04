@@ -1,0 +1,1587 @@
+1
+00:00:00,000 --> 00:00:05,596
+En julio de 2025, una inspección oficial en una residencia de ancianos de Estados
+
+2
+00:00:05,596 --> 00:00:11,330
+Unidos encontró a una mujer con alzhéimer, que no podía hablar, acostada en su cama
+
+3
+00:00:11,330 --> 00:00:12,919
+y cubierta de hormigas.
+
+4
+00:00:12,919 --> 00:00:18,446
+Le caminaban por la cara, por el cuello y por los ojos, que ya tenía hinchados y
+
+5
+00:00:18,446 --> 00:00:19,068
+cerrados.
+
+6
+00:00:19,068 --> 00:00:21,486
+Tenía picaduras por todo el cuerpo.
+
+7
+00:00:21,486 --> 00:00:25,493
+Y según el informe, quien lo descubrió no fue el personal.
+
+8
+00:00:25,493 --> 00:00:26,530
+Fue su familia.
+
+9
+00:00:26,530 --> 00:00:32,065
+Esa residencia pertenece a la empresa más grande de su tipo en todo Estados Unidos.
+
+10
+00:00:32,065 --> 00:00:37,399
+Una empresa que cotiza en bolsa, que vale miles de millones de dólares, que vive
+
+11
+00:00:37,399 --> 00:00:39,400
+sobre todo del dinero público…
+
+12
+00:00:39,400 --> 00:00:44,802
+y que, según una investigación periodística de cinco meses, gana más precisamente
+
+13
+00:00:44,802 --> 00:00:48,469
+cuando pone menos enfermeras a cuidar a sus residentes.
+
+14
+00:00:48,470 --> 00:00:50,249
+Se llama The Ensign Group.
+
+15
+00:00:50,249 --> 00:00:53,260
+Y es solo la punta de algo mucho más grande.
+
+16
+00:00:53,260 --> 00:00:58,571
+Según las propias cuentas del Gobierno de Estados Unidos, en 2025 sus dos grandes
+
+17
+00:00:58,571 --> 00:01:03,556
+programas públicos de salud pagaron unos 94.000 millones de dólares de forma
+
+18
+00:01:03,556 --> 00:01:04,146
+indebida.
+
+19
+00:01:04,146 --> 00:01:05,129
+En un solo año.
+
+20
+00:01:05,129 --> 00:01:06,964
+Ojo, y esto es importante:
+
+21
+00:01:06,964 --> 00:01:09,432
+"pago indebido" no siempre es robo.
+
+22
+00:01:09,432 --> 00:01:11,901
+Muchas veces es un papel que falta.
+
+23
+00:01:11,901 --> 00:01:14,511
+Pero dentro de esa cifra hay de todo:
+
+24
+00:01:14,511 --> 00:01:15,640
+errores, abusos…
+
+25
+00:01:15,640 --> 00:01:16,275
+y fraude.
+
+26
+00:01:16,275 --> 00:01:21,777
+Hoy le vamos a contar cómo funciona el negocio de las residencias de ancianos,
+
+27
+00:01:21,777 --> 00:01:27,491
+cuáles son las tres formas de sacarle dinero al sistema, por qué las multas no lo
+
+28
+00:01:27,491 --> 00:01:27,984
+frenan…
+
+29
+00:01:27,984 --> 00:01:32,570
+y por qué esta historia no es solo un problema de Estados Unidos.
+
+30
+00:01:32,570 --> 00:01:34,852
+Si es la primera vez que nos ve:
+
+31
+00:01:34,852 --> 00:01:40,131
+en Cashtory contamos las historias reales de dinero más grandes del mundo,
+
+32
+00:01:40,131 --> 00:01:42,056
+explicadas sin tecnicismos.
+
+33
+00:01:42,056 --> 00:01:47,834
+Si le interesa el dinero contado como una historia, suscríbase, que vienen muchas
+
+34
+00:01:47,834 --> 00:01:48,119
+más.
+
+35
+00:01:48,120 --> 00:01:50,772
+Antes de empezar, dos avisos importantes.
+
+36
+00:01:50,772 --> 00:01:51,290
+Primero:
+
+37
+00:01:51,290 --> 00:01:56,466
+este video es educativo y no es una recomendación para comprar ni vender ninguna
+
+38
+00:01:56,466 --> 00:01:56,918
+acción.
+
+39
+00:01:56,918 --> 00:01:58,536
+Segundo, y esto es clave:
+
+40
+00:01:58,536 --> 00:02:03,841
+casi todo lo que vamos a contar son acusaciones de una investigación periodística,
+
+41
+00:02:03,841 --> 00:02:05,717
+de demandas y de exempleados.
+
+42
+00:02:05,717 --> 00:02:09,146
+Ningún juez ha dicho que Ensign haya cometido fraude.
+
+43
+00:02:09,146 --> 00:02:14,516
+La empresa no respondió a las preguntas de los periodistas, y su director ejecutivo
+
+44
+00:02:14,516 --> 00:02:19,498
+ha dicho en el pasado que la idea de que la compañía desvía dinero es, en sus
+
+45
+00:02:19,498 --> 00:02:21,698
+palabras, "categóricamente falsa".
+
+46
+00:02:21,698 --> 00:02:26,680
+Usted va a escuchar las dos partes, y al final saca sus propias conclusiones.
+
+47
+00:02:26,680 --> 00:02:30,128
+Y una cosa más que casi nadie le va a contar:
+
+48
+00:02:30,128 --> 00:02:36,489
+la investigación la hizo un medio llamado Hunterbrook, que está unido a un fondo de
+
+49
+00:02:36,489 --> 00:02:37,255
+inversión.
+
+50
+00:02:37,255 --> 00:02:41,010
+Ese fondo apuesta a que la acción de Ensign baje.
+
+51
+00:02:41,010 --> 00:02:44,689
+Ellos mismos lo dicen al inicio de su reportaje.
+
+52
+00:02:44,689 --> 00:02:50,589
+Eso no hace falso lo que encontraron, pero sí es algo que usted merece saber.
+
+53
+00:02:50,590 --> 00:02:54,872
+Para entender esta historia, primero hay que entender algo que en España funciona
+
+54
+00:02:54,872 --> 00:02:55,560
+muy distinto.
+
+55
+00:02:55,560 --> 00:02:59,560
+En Estados Unidos existen unos centros llamados, en inglés, "skilled nursing
+
+56
+00:02:59,560 --> 00:03:00,191
+facilities".
+
+57
+00:03:00,191 --> 00:03:00,717
+Traducido:
+
+58
+00:03:00,717 --> 00:03:02,875
+residencias con enfermería especializada.
+
+59
+00:03:02,875 --> 00:03:07,244
+Son para personas que ya no están tan mal como para seguir en un hospital, pero que
+
+60
+00:03:07,244 --> 00:03:08,823
+tampoco pueden cuidarse solas.
+
+61
+00:03:08,823 --> 00:03:11,138
+Alguien que sale de una operación de cadera.
+
+62
+00:03:11,138 --> 00:03:12,717
+Alguien con demencia avanzada.
+
+63
+00:03:12,717 --> 00:03:14,559
+Alguien que necesita un respirador.
+
+64
+00:03:14,560 --> 00:03:16,686
+¿Quién paga esas residencias?
+
+65
+00:03:16,686 --> 00:03:18,665
+En su mayoría, el Gobierno.
+
+66
+00:03:18,665 --> 00:03:21,232
+A través de dos programas públicos:
+
+67
+00:03:21,232 --> 00:03:27,024
+Medicare, que es el seguro de salud del Gobierno para los mayores de 65 años, y
+
+68
+00:03:27,024 --> 00:03:31,936
+Medicaid, que es la ayuda pública para personas con pocos recursos.
+
+69
+00:03:31,936 --> 00:03:32,376
+O sea:
+
+70
+00:03:32,376 --> 00:03:33,109
+impuestos.
+
+71
+00:03:33,110 --> 00:03:36,423
+Y aquí está la pieza central de toda la historia.
+
+72
+00:03:36,423 --> 00:03:39,670
+El Gobierno no paga lo mismo por cada residente.
+
+73
+00:03:39,670 --> 00:03:41,766
+Paga según lo enfermo que está.
+
+74
+00:03:41,766 --> 00:03:45,283
+A esto se le llama "agudeza", o en inglés, "acuity".
+
+75
+00:03:45,283 --> 00:03:49,882
+Cuanto más enfermo está el residente, más horas de cuidado necesita…
+
+76
+00:03:49,882 --> 00:03:53,670
+y más dinero recibe la residencia para darle esas horas.
+
+77
+00:03:53,670 --> 00:03:55,616
+Ese pago no es un número inventado.
+
+78
+00:03:55,616 --> 00:04:00,065
+El propio Gobierno estadounidense encargó estudios que midieron, con cronómetro,
+
+79
+00:04:00,065 --> 00:04:03,347
+cuánto tiempo de enfermería necesita cada tipo de paciente.
+
+80
+00:04:03,347 --> 00:04:04,960
+Con eso calcula cuánto pagar.
+
+81
+00:04:04,960 --> 00:04:06,039
+¿Ve el problema?
+
+82
+00:04:06,039 --> 00:04:10,493
+A la residencia le pagan según las horas que el paciente necesita.
+
+83
+00:04:10,493 --> 00:04:15,486
+Pero nadie le obliga a demostrar, hora por hora, que de verdad se las dio.
+
+84
+00:04:15,486 --> 00:04:20,615
+La ley federal sí dice que toda residencia que reciba este dinero debe tener
+
+85
+00:04:20,615 --> 00:04:26,215
+"personal de enfermería suficiente" para atender las necesidades de cada residente.
+
+86
+00:04:26,215 --> 00:04:29,320
+Pero "suficiente" es una palabra muy elástica.
+
+87
+00:04:29,320 --> 00:04:35,445
+Ensign es el operador con más residencias certificadas por el Gobierno en todo el
+
+88
+00:04:35,445 --> 00:04:35,823
+país:
+
+89
+00:04:35,823 --> 00:04:42,024
+334 centros en 17 estados y más de 38.000 camas, según los datos públicos de abril
+
+90
+00:04:42,024 --> 00:04:42,629
+de 2026.
+
+91
+00:04:42,629 --> 00:04:48,905
+Y su propio informe anual dice que su modelo de negocio se basa en parte en atender
+
+92
+00:04:48,905 --> 00:04:51,022
+"pacientes de alta agudeza".
+
+93
+00:04:51,022 --> 00:04:51,703
+Es decir:
+
+94
+00:04:51,703 --> 00:04:52,988
+los más enfermos.
+
+95
+00:04:52,988 --> 00:04:54,350
+Los que más pagan.
+
+96
+00:04:54,350 --> 00:04:55,957
+Y el negocio va muy bien.
+
+97
+00:04:55,957 --> 00:05:00,459
+Según sus propios resultados presentados ante el regulador de la bolsa
+
+98
+00:05:00,459 --> 00:05:05,862
+estadounidense, en 2024 Ensign ingresó más de 4.260 millones de dólares, un 14 % más
+
+99
+00:05:05,862 --> 00:05:07,148
+que el año anterior.
+
+100
+00:05:07,148 --> 00:05:09,078
+Y ganó, limpios, 298 millones.
+
+101
+00:05:09,078 --> 00:05:10,621
+Hasta aquí, nada ilegal.
+
+102
+00:05:10,621 --> 00:05:15,059
+Es una empresa grande que cuida a gente muy enferma y cobra por ello.
+
+103
+00:05:15,059 --> 00:05:16,024
+La pregunta es:
+
+104
+00:05:16,024 --> 00:05:18,854
+¿cuánto cuidado da de verdad por ese dinero?
+
+105
+00:05:18,854 --> 00:05:22,070
+Pero antes de responder, necesita una herramienta.
+
+106
+00:05:23,070 --> 00:05:28,366
+Casi todo el fraude en la sanidad pública, por complicado que suene, cabe en tres
+
+107
+00:05:28,366 --> 00:05:28,758
+ideas.
+
+108
+00:05:28,758 --> 00:05:32,420
+Apréndaselas, porque las va a ver durante todo el video.
+
+109
+00:05:32,420 --> 00:05:33,137
+La primera:
+
+110
+00:05:33,137 --> 00:05:34,965
+cobrar por algo que no pasó.
+
+111
+00:05:34,965 --> 00:05:36,727
+Una terapia que nadie hizo.
+
+112
+00:05:36,727 --> 00:05:38,619
+Un aparato que nadie entregó.
+
+113
+00:05:38,619 --> 00:05:41,230
+Una hora de enfermera que nadie trabajó.
+
+114
+00:05:41,230 --> 00:05:42,339
+Se factura igual.
+
+115
+00:05:42,340 --> 00:05:43,219
+La segunda:
+
+116
+00:05:43,219 --> 00:05:48,575
+cobrar por algo que sí se hizo, pero que el paciente no necesitaba.
+
+117
+00:05:48,575 --> 00:05:53,292
+Una prueba que nadie pidió, una terapia que no hacía falta.
+
+118
+00:05:53,292 --> 00:05:56,490
+Se hace solo porque el Gobierno la paga.
+
+119
+00:05:56,490 --> 00:05:57,389
+Y la tercera:
+
+120
+00:05:57,389 --> 00:06:00,710
+cobrar por algo que sí se hizo y sí hacía falta…
+
+121
+00:06:00,710 --> 00:06:02,439
+pero inflando la factura.
+
+122
+00:06:02,439 --> 00:06:07,905
+Anotar al paciente como más enfermo de lo que está, o sumar servicios que no se
+
+123
+00:06:07,905 --> 00:06:08,389
+dieron.
+
+124
+00:06:08,390 --> 00:06:08,861
+No pasó.
+
+125
+00:06:08,861 --> 00:06:09,746
+No hacía falta.
+
+126
+00:06:09,746 --> 00:06:10,276
+Se infló.
+
+127
+00:06:10,276 --> 00:06:11,810
+Guárdese esas tres frases.
+
+128
+00:06:12,810 --> 00:06:17,019
+Los periodistas de Hunterbrook, junto con exanalistas financieros, revisaron
+
+129
+00:06:17,019 --> 00:06:21,617
+millones de datos públicos del organismo que administra Medicare y Medicaid, que en
+
+130
+00:06:21,617 --> 00:06:22,725
+inglés se llama CMS.
+
+131
+00:06:22,725 --> 00:06:26,160
+Hicieron algo muy sencillo de explicar y muy difícil de hacer.
+
+132
+00:06:26,160 --> 00:06:31,508
+Tomaron lo enfermos que Ensign decía que estaban sus residentes, con una fórmula de
+
+133
+00:06:31,508 --> 00:06:36,277
+un estudio científico revisado por expertos, y calcularon cuántas horas de
+
+134
+00:06:36,277 --> 00:06:37,759
+enfermería necesitaban.
+
+135
+00:06:37,759 --> 00:06:42,850
+Y luego lo compararon con las horas que Ensign de verdad le pagó a su personal,
+
+136
+00:06:42,850 --> 00:06:47,490
+según los registros de nómina que la propia empresa entrega al Gobierno.
+
+137
+00:06:47,490 --> 00:06:51,043
+El resultado, solo entre julio y noviembre de 2024:
+
+138
+00:06:51,043 --> 00:06:56,548
+más de 5 millones de horas de enfermería que, según ese cálculo, los residentes
+
+139
+00:06:56,548 --> 00:06:58,500
+necesitaban y no recibieron.
+
+140
+00:06:58,500 --> 00:07:00,216
+Para ponerlo en perspectiva:
+
+141
+00:07:00,216 --> 00:07:04,200
+5 millones de horas son más de 570 años de trabajo de enfermería.
+
+142
+00:07:04,200 --> 00:07:05,120
+En cinco meses.
+
+143
+00:07:05,120 --> 00:07:10,298
+Luego pasaron esas horas a dinero, usando lo que la propia Ensign reporta que le
+
+144
+00:07:10,298 --> 00:07:11,528
+cuesta su personal.
+
+145
+00:07:11,528 --> 00:07:12,176
+El ahorro:
+
+146
+00:07:12,176 --> 00:07:15,348
+unos 161 millones de dólares en esos cinco meses.
+
+147
+00:07:15,348 --> 00:07:18,650
+Si se mantuvo igual todo el año, unos 386 millones.
+
+148
+00:07:18,650 --> 00:07:19,828
+Fíjese en esto:
+
+149
+00:07:19,828 --> 00:07:26,428
+386 millones es más que toda la ganancia que Ensign reportó ese año, que fue de 298.
+
+150
+00:07:26,428 --> 00:07:30,357
+Dicho de otra forma, y siempre según este cálculo:
+
+151
+00:07:30,357 --> 00:07:35,700
+sin ese ahorro en enfermeras, la empresa no habría tenido ganancias.
+
+152
+00:07:35,700 --> 00:07:41,198
+Un abogado que lleva casos de abandono en residencias lo resumió así ante los
+
+153
+00:07:41,198 --> 00:07:42,055
+periodistas:
+
+154
+00:07:42,055 --> 00:07:45,553
+"La diferencia entre esos dos números es fraude".
+
+155
+00:07:45,553 --> 00:07:45,839
+Ojo:
+
+156
+00:07:45,839 --> 00:07:48,410
+esa es su opinión, no una sentencia.
+
+157
+00:07:48,410 --> 00:07:50,983
+Pero hay algo que le da peso al cálculo:
+
+158
+00:07:50,983 --> 00:07:56,195
+los dos investigadores que crearon la fórmula revisaron el trabajo y validaron el
+
+159
+00:07:56,195 --> 00:07:56,646
+método.
+
+160
+00:07:56,646 --> 00:07:58,061
+Y no es una idea rara:
+
+161
+00:07:58,061 --> 00:08:03,402
+en 2025, la fiscalía general de California usó una técnica parecida para demandar a
+
+162
+00:08:03,402 --> 00:08:05,139
+otra cadena de residencias.
+
+163
+00:08:05,140 --> 00:08:08,486
+¿Y qué significa eso dentro de una residencia?
+
+164
+00:08:08,486 --> 00:08:10,087
+Significa menos manos.
+
+165
+00:08:10,087 --> 00:08:16,053
+Una residente de Utah que vive desde hace más de cinco años en un centro de Ensign
+
+166
+00:08:16,053 --> 00:08:22,164
+le dijo a los periodistas que pone música alta para no oír los gritos y los llantos.
+
+167
+00:08:22,164 --> 00:08:27,694
+Contó que a veces el personal usa toallas de papel mojadas en lugar de papel
+
+168
+00:08:27,694 --> 00:08:33,805
+higiénico, que las infecciones se repiten, y que vio a otra residente llorar después
+
+169
+00:08:33,805 --> 00:08:37,370
+de pasar un día sin comer y sin que la cambiaran.
+
+170
+00:08:37,370 --> 00:08:40,789
+"Veo a mucha gente romperse aquí dentro", dijo.
+
+171
+00:08:40,789 --> 00:08:41,432
+Y hay más.
+
+172
+00:08:41,432 --> 00:08:46,568
+Cuatro estados donde opera Ensign tienen un mínimo legal de horas de cuidado por
+
+173
+00:08:46,568 --> 00:08:47,659
+residente al día:
+
+174
+00:08:47,659 --> 00:08:50,420
+California, Washington, Tennessee y Kansas.
+
+175
+00:08:50,420 --> 00:08:55,428
+Según el análisis de los registros oficiales entre 2020 y 2025, los centros de
+
+176
+00:08:55,428 --> 00:09:00,500
+Ensign estuvieron por debajo de ese mínimo legal en más de 18.000 días sumados.
+
+177
+00:09:00,500 --> 00:09:02,169
+No por debajo de lo ideal.
+
+178
+00:09:02,169 --> 00:09:04,930
+Por debajo de lo mínimo que permite la ley.
+
+179
+00:09:04,930 --> 00:09:10,832
+Cuando los periodistas le preguntaron a Ensign por estas cifras, la empresa no las
+
+180
+00:09:10,832 --> 00:09:12,560
+negó ni dio otros datos.
+
+181
+00:09:12,560 --> 00:09:14,360
+Simplemente no respondió.
+
+182
+00:09:14,360 --> 00:09:16,220
+¿Recuerda las tres trampas?
+
+183
+00:09:16,220 --> 00:09:21,732
+Si el Gobierno paga por horas de cuidado que no llegan, eso se parece mucho a la
+
+184
+00:09:21,732 --> 00:09:22,283
+primera:
+
+185
+00:09:22,283 --> 00:09:24,212
+cobrar por algo que no pasó.
+
+186
+00:09:24,212 --> 00:09:27,520
+Aunque, insistimos, ningún juez lo ha dicho así.
+
+187
+00:09:27,520 --> 00:09:28,868
+Y Ensign no está sola.
+
+188
+00:09:28,868 --> 00:09:33,771
+Con el mismo cálculo, aplicado a todas las residencias del país, los periodistas
+
+189
+00:09:33,771 --> 00:09:38,367
+estimaron unos 6.500 millones de dólares de ganancia por falta de personal.
+
+190
+00:09:38,367 --> 00:09:39,654
+En toda la industria.
+
+191
+00:09:39,654 --> 00:09:40,880
+En solo cinco meses.
+
+192
+00:09:41,880 --> 00:09:44,784
+Ahora póngase en el lugar de una familia.
+
+193
+00:09:44,784 --> 00:09:47,122
+Su madre necesita una residencia.
+
+194
+00:09:47,122 --> 00:09:47,972
+¿Cómo elige?
+
+195
+00:09:47,972 --> 00:09:53,639
+En Estados Unidos, el propio Gobierno tiene una página web donde cada residencia
+
+196
+00:09:53,639 --> 00:09:57,464
+aparece con una calificación de una a cinco estrellas.
+
+197
+00:09:57,464 --> 00:10:02,990
+Es como las reseñas de un hotel, pero para el lugar donde va a vivir su madre.
+
+198
+00:10:02,990 --> 00:10:05,636
+Y Ensign presume mucho de sus estrellas.
+
+199
+00:10:05,636 --> 00:10:10,994
+Su director ejecutivo, Barry Port, dijo en el comunicado de resultados del primer
+
+200
+00:10:10,994 --> 00:10:16,286
+trimestre de 2026 que sus centros superaban a la competencia en las estrellas de
+
+201
+00:10:16,286 --> 00:10:16,815
+calidad:
+
+202
+00:10:16,815 --> 00:10:19,197
+un 24 % por encima a nivel nacional.
+
+203
+00:10:19,197 --> 00:10:24,290
+Un analista de bolsa llegó a llamar a esas estrellas la "salsa secreta" de la
+
+204
+00:10:24,290 --> 00:10:24,819
+empresa.
+
+205
+00:10:24,820 --> 00:10:26,599
+Pero aquí viene el truco.
+
+206
+00:10:26,599 --> 00:10:29,873
+Esas estrellas no salen todas del mismo lugar.
+
+207
+00:10:29,873 --> 00:10:33,146
+Los periodistas las separaron en tres niveles.
+
+208
+00:10:33,146 --> 00:10:33,858
+Nivel uno:
+
+209
+00:10:33,858 --> 00:10:38,270
+lo que revisan inspectores del Gobierno que llegan sin avisar.
+
+210
+00:10:38,270 --> 00:10:38,982
+Nivel dos:
+
+211
+00:10:38,982 --> 00:10:43,893
+lo que la empresa reporta, pero que se puede comprobar con la nómina.
+
+212
+00:10:43,893 --> 00:10:44,818
+Y nivel tres:
+
+213
+00:10:44,818 --> 00:10:50,583
+lo que la empresa evalúa y reporta sobre sí misma, sin que nadie le pida pruebas.
+
+214
+00:10:50,583 --> 00:10:51,223
+Es decir:
+
+215
+00:10:51,223 --> 00:10:53,430
+un sistema de palabra de honor.
+
+216
+00:10:53,430 --> 00:10:56,134
+¿Y adivine dónde le va mejor a Ensign?
+
+217
+00:10:56,134 --> 00:11:01,755
+En el nivel tres, el de la palabra de honor, sale un 22 % mejor que el promedio
+
+218
+00:11:01,755 --> 00:11:02,396
+nacional.
+
+219
+00:11:02,396 --> 00:11:06,096
+Pero cuando alguien puede comprobar, la cosa cambia:
+
+220
+00:11:06,096 --> 00:11:10,935
+en horas de enfermeras tituladas, sale un 17 % peor que el promedio.
+
+221
+00:11:10,935 --> 00:11:13,710
+En incidentes reportados, un 38 % peor.
+
+222
+00:11:13,710 --> 00:11:17,980
+Y en las quejas que verifican los inspectores, un 20 % peor.
+
+223
+00:11:17,980 --> 00:11:22,640
+¿Cómo puede entonces una residencia con mala inspección tener buena nota final?
+
+224
+00:11:22,640 --> 00:11:27,535
+Porque la calificación general empieza con la inspección y luego suma estrellas por
+
+225
+00:11:27,535 --> 00:11:32,195
+personal y por calidad, incluida esa calidad que la residencia reporta sobre sí
+
+226
+00:11:32,195 --> 00:11:32,549
+misma.
+
+227
+00:11:32,549 --> 00:11:36,620
+Así, una inspección de dos estrellas puede terminar mostrando cuatro.
+
+228
+00:11:36,620 --> 00:11:37,782
+Un ejemplo real:
+
+229
+00:11:37,782 --> 00:11:43,664
+una residencia de Ensign en Texas tiene cinco estrellas en las medidas de calidad
+
+230
+00:11:43,664 --> 00:11:45,552
+que se reporta a sí misma.
+
+231
+00:11:45,552 --> 00:11:51,653
+Y una estrella, "muy por debajo del promedio", en las inspecciones y en el personal,
+
+232
+00:11:51,653 --> 00:11:54,050
+que es lo que se puede comprobar.
+
+233
+00:11:54,050 --> 00:11:58,678
+Varios exempleados de distintos estados le contaron a los periodistas cómo se
+
+234
+00:11:58,678 --> 00:12:00,001
+inflaban esos números:
+
+235
+00:12:00,001 --> 00:12:04,569
+reseñas falsas en Google, documentos alterados, caídas anotadas como simples
+
+236
+00:12:04,569 --> 00:12:09,378
+"resbalones", y presión para anotar a los residentes como más enfermos de lo que
+
+237
+00:12:09,378 --> 00:12:11,602
+estaban, para cobrar más al Gobierno.
+
+238
+00:12:11,602 --> 00:12:16,471
+Una exauxiliar de Nebraska dijo que, si los números de caídas y úlceras no salían
+
+239
+00:12:16,471 --> 00:12:20,138
+como quería la dirección, les quitaban beneficios prometidos.
+
+240
+00:12:20,138 --> 00:12:24,887
+Un exterapeuta contó que vio cómo alguien borraba los 30 minutos de terapia que
+
+241
+00:12:24,887 --> 00:12:26,450
+había hecho y escribía 70.
+
+242
+00:12:26,450 --> 00:12:28,149
+Y esto tiene consecuencias.
+
+243
+00:12:28,149 --> 00:12:33,437
+El esposo de una paciente en California contó que eligieron una residencia de Ensign
+
+244
+00:12:33,437 --> 00:12:35,955
+por sus buenas reseñas y calificaciones.
+
+245
+00:12:35,955 --> 00:12:40,865
+Según su relato, el personal ignoró la orden del médico de aislarla durante su
+
+246
+00:12:40,865 --> 00:12:45,649
+quimioterapia, la pusieron junto a una persona con neumonía, la infección se
+
+247
+00:12:45,649 --> 00:12:48,860
+complicó, y terminaron amputándole las dos piernas.
+
+248
+00:12:48,860 --> 00:12:53,440
+Y anotar a un residente como más enfermo de lo que está, para cobrar más…
+
+249
+00:12:53,440 --> 00:12:55,510
+es exactamente la tercera trampa:
+
+250
+00:12:55,510 --> 00:12:55,950
+inflar.
+
+251
+00:12:56,950 --> 00:13:01,343
+Ahora viene la parte que más se parece a un truco de contabilidad.
+
+252
+00:13:01,343 --> 00:13:03,473
+Y para entenderla, imagine esto.
+
+253
+00:13:03,473 --> 00:13:05,271
+Usted tiene un restaurante.
+
+254
+00:13:05,271 --> 00:13:09,331
+El local es suyo, pero lo pone a nombre de otra empresa suya.
+
+255
+00:13:09,331 --> 00:13:13,459
+Esa otra empresa le cobra al restaurante un alquiler altísimo.
+
+256
+00:13:13,459 --> 00:13:14,191
+¿Resultado?
+
+257
+00:13:14,191 --> 00:13:18,651
+En los papeles, el restaurante casi no gana nada, o incluso pierde.
+
+258
+00:13:18,651 --> 00:13:20,648
+Pero el dinero no desapareció:
+
+259
+00:13:20,648 --> 00:13:24,310
+solo se movió de un bolsillo suyo a otro bolsillo suyo.
+
+260
+00:13:24,310 --> 00:13:27,983
+En el mundo de las residencias eso tiene nombre en inglés:
+
+261
+00:13:27,983 --> 00:13:28,743
+"tunneling".
+
+262
+00:13:28,743 --> 00:13:30,707
+Algo así como "hacer un túnel".
+
+263
+00:13:30,707 --> 00:13:35,901
+Las residencias le pagan alquiler, seguros, transporte y gastos de gestión a otras
+
+264
+00:13:35,901 --> 00:13:38,371
+empresas que pertenecen al mismo grupo.
+
+265
+00:13:38,371 --> 00:13:41,348
+Muchos de esos servicios son necesarios, claro.
+
+266
+00:13:41,348 --> 00:13:46,669
+El problema, según los expertos, es cuando se cobran precios por encima del mercado:
+
+267
+00:13:46,669 --> 00:13:49,900
+el centro parece pobre, y la ganancia se va arriba.
+
+268
+00:13:49,900 --> 00:13:55,381
+Según el análisis de los informes de costos que las residencias entregan al
+
+269
+00:13:55,381 --> 00:14:01,301
+Gobierno, los centros de Ensign le pagaron unos 339 millones de dólares en 2024 a
+
+270
+00:14:01,301 --> 00:14:03,202
+empresas del propio grupo.
+
+271
+00:14:03,202 --> 00:14:06,198
+Eso es alrededor del 8 % de sus ingresos.
+
+272
+00:14:06,198 --> 00:14:09,779
+Y, de nuevo, más que toda su ganancia de ese año.
+
+273
+00:14:09,780 --> 00:14:11,863
+Esto no lo dice solo el periodista.
+
+274
+00:14:11,863 --> 00:14:16,744
+En 2024, una carta de miembros del Congreso de Estados Unidos dirigida al entonces
+
+275
+00:14:16,744 --> 00:14:21,684
+presidente ejecutivo de Ensign describió estos pagos entre empresas del mismo dueño
+
+276
+00:14:21,684 --> 00:14:26,030
+como una "táctica engañosa" que usa la industria para esconder ganancias.
+
+277
+00:14:26,030 --> 00:14:26,856
+Un ejemplo.
+
+278
+00:14:26,856 --> 00:14:33,168
+Una residencia de Ensign en Kansas City está en la lista del Gobierno de centros con
+
+279
+00:14:33,168 --> 00:14:38,879
+problemas graves y repetidos, la que pone a un centro en riesgo de perder la
+
+280
+00:14:38,879 --> 00:14:40,457
+financiación pública.
+
+281
+00:14:40,457 --> 00:14:46,694
+Allí, en 2024, una inspección encontró una infestación de gusanos dentro del cuerpo
+
+282
+00:14:46,694 --> 00:14:52,631
+de un residente por falta de cuidados, y la calificó con el nivel más grave que
+
+283
+00:14:52,631 --> 00:14:53,157
+existe:
+
+284
+00:14:53,157 --> 00:14:54,660
+"peligro inmediato".
+
+285
+00:14:54,660 --> 00:14:58,357
+Ese centro ingresó casi 18 millones de dólares por pacientes en 2024.
+
+286
+00:14:58,357 --> 00:15:02,643
+En papel, perdió dinero en tres de los últimos cinco años con datos disponibles.
+
+287
+00:15:02,643 --> 00:15:06,823
+Pero en un solo año le pagó más de 2 millones de dólares a empresas del propio
+
+288
+00:15:06,823 --> 00:15:07,144
+grupo.
+
+289
+00:15:07,144 --> 00:15:10,360
+Sus pérdidas eran una fracción de lo que mandó hacia arriba.
+
+290
+00:15:10,360 --> 00:15:13,403
+Un exadministrador de Ensign lo dijo así:
+
+291
+00:15:13,403 --> 00:15:19,637
+"Si no estuviéramos pagando todos esos gastos que salen del edificio hacia terceros,
+
+292
+00:15:19,637 --> 00:15:23,720
+podríamos dar un cuidado increíble a estos residentes".
+
+293
+00:15:23,720 --> 00:15:25,990
+Ensign tampoco respondió a las preguntas sobre estos pagos.
+
+294
+00:15:26,990 --> 00:15:30,175
+Ahora, algo que sí está en documentos oficiales.
+
+295
+00:15:30,175 --> 00:15:35,550
+En 2013, Ensign aceptó pagar 48 millones de dólares al Gobierno de Estados Unidos
+
+296
+00:15:35,550 --> 00:15:40,726
+para cerrar acusaciones de que seis de sus centros en California le cobraron a
+
+297
+00:15:40,726 --> 00:15:46,300
+Medicare terapias que no eran necesarias o que nunca se hicieron, entre 1999 y 2011.
+
+298
+00:15:46,300 --> 00:15:46,764
+Fíjese:
+
+299
+00:15:46,764 --> 00:15:49,352
+la primera y la segunda trampa, juntas.
+
+300
+00:15:49,352 --> 00:15:53,865
+El caso empezó porque dos exterapeutas de la empresa la denunciaron.
+
+301
+00:15:53,865 --> 00:15:55,457
+Ensign no admitió culpa.
+
+302
+00:15:55,457 --> 00:16:00,169
+Aceptó un acuerdo de vigilancia con el Gobierno para todos sus centros…
+
+303
+00:16:00,169 --> 00:16:01,430
+y siguió creciendo.
+
+304
+00:16:01,430 --> 00:16:03,560
+Y aquí está el problema de fondo.
+
+305
+00:16:03,560 --> 00:16:08,660
+Cuando una empresa paga una multa sin admitir culpa, en la mayoría de los casos
+
+306
+00:16:08,660 --> 00:16:11,824
+puede seguir cobrándole al Gobierno como si nada.
+
+307
+00:16:11,824 --> 00:16:16,924
+Para una compañía que ingresa miles de millones al año, una multa de decenas de
+
+308
+00:16:16,924 --> 00:16:20,540
+millones puede terminar siendo un gasto más del negocio.
+
+309
+00:16:20,540 --> 00:16:21,972
+Y no es solo Ensign.
+
+310
+00:16:21,972 --> 00:16:27,628
+Mire el caso de Lincare, una empresa que alquila oxígeno y equipos médicos para
+
+311
+00:16:27,628 --> 00:16:28,917
+pacientes en casa.
+
+312
+00:16:28,917 --> 00:16:34,574
+En agosto de 2023 pagó 29 millones de dólares para cerrar acusaciones de que le
+
+313
+00:16:34,574 --> 00:16:37,939
+cobró de más a Medicare por equipos de oxígeno.
+
+314
+00:16:37,939 --> 00:16:43,811
+Esta vez, la empresa admitió que siguió cobrando después del límite de 36 meses de
+
+315
+00:16:43,811 --> 00:16:45,816
+alquiler que permite la ley.
+
+316
+00:16:45,816 --> 00:16:51,830
+Y en febrero de 2024, apenas seis meses después, pagó otros 25,5 millones por seguir
+
+317
+00:16:51,830 --> 00:16:56,699
+cobrando el alquiler de ventiladores que los pacientes ya no usaban.
+
+318
+00:16:56,700 --> 00:16:57,905
+Dos acuerdos en seis meses.
+
+319
+00:16:57,905 --> 00:16:59,201
+Y la empresa siguió operando.
+
+320
+00:16:59,201 --> 00:17:02,640
+Encontrar al tramposo no sirve de mucho si después lo dejamos seguir jugando.
+
+321
+00:17:03,640 --> 00:17:05,101
+Vamos con quién gana.
+
+322
+00:17:05,101 --> 00:17:10,880
+Según el informe oficial que Ensign presentó a sus accionistas en 2026, su director
+
+323
+00:17:10,880 --> 00:17:15,127
+ejecutivo cobró en 2025 un total de 13,8 millones de dólares.
+
+324
+00:17:15,127 --> 00:17:17,702
+De eso, solo medio millón fue sueldo.
+
+325
+00:17:17,702 --> 00:17:21,880
+Más de 10 millones fueron bono por resultados de la empresa.
+
+326
+00:17:21,880 --> 00:17:25,099
+Y los bonos por resultados no se quedan arriba.
+
+327
+00:17:25,099 --> 00:17:30,852
+Según una declaración en una demanda, la empresa ató el bono del administrador de un
+
+328
+00:17:30,852 --> 00:17:33,386
+centro a las ganancias de ese centro.
+
+329
+00:17:33,386 --> 00:17:39,139
+Y al tener menos personal del recomendado, ese administrador logró que su bono anual
+
+330
+00:17:39,139 --> 00:17:42,427
+pasara de unos 400.000 dólares a más de 800.000.
+
+331
+00:17:42,427 --> 00:17:47,975
+La demanda sostiene que, en ese mismo centro y por la falta de personal, murió un
+
+332
+00:17:47,975 --> 00:17:48,659
+residente.
+
+333
+00:17:48,660 --> 00:17:49,917
+Ahora la política.
+
+334
+00:17:49,917 --> 00:17:55,715
+En mayo de 2024, el Gobierno de Joe Biden aprobó una regla que obligaba a todas las
+
+335
+00:17:55,715 --> 00:18:01,443
+residencias que reciben dinero público a dar al menos 3,48 horas de enfermería por
+
+336
+00:18:01,443 --> 00:18:05,844
+residente al día y a tener una enfermera titulada las 24 horas.
+
+337
+00:18:05,844 --> 00:18:11,572
+Un estudio de la Universidad de Pensilvania estimó que esa regla podía salvar unas
+
+338
+00:18:11,572 --> 00:18:12,970
+13.000 vidas al año.
+
+339
+00:18:12,970 --> 00:18:17,290
+La principal asociación de la industria demandó al Gobierno para frenarla,
+
+340
+00:18:17,290 --> 00:18:21,960
+argumentando que la mayoría de las residencias pierden dinero y que la regla las
+
+341
+00:18:21,960 --> 00:18:23,069
+obligaría a cerrar.
+
+342
+00:18:23,069 --> 00:18:27,390
+El director ejecutivo de Ensign forma parte de la junta de esa asociación.
+
+343
+00:18:27,390 --> 00:18:28,684
+Fíjese en el contraste:
+
+344
+00:18:28,684 --> 00:18:33,187
+mientras la asociación decía en los tribunales que el sector no tenía dinero, el
+
+345
+00:18:33,187 --> 00:18:37,633
+director ejecutivo de Ensign les hablaba a los inversionistas de un crecimiento
+
+346
+00:18:37,633 --> 00:18:39,209
+"récord" y "extraordinario".
+
+347
+00:18:39,210 --> 00:18:45,009
+Según el New York Times y la investigación de Hunterbrook, en agosto de 2025 Ensign
+
+348
+00:18:45,009 --> 00:18:50,460
+donó 750.000 dólares a un comité político a favor del presidente Donald Trump.
+
+349
+00:18:50,460 --> 00:18:56,120
+Ese verano, ejecutivos de la industria almorzaron con el presidente en su club de
+
+350
+00:18:56,120 --> 00:18:56,469
+golf.
+
+351
+00:18:56,469 --> 00:19:02,199
+El New York Times aclara que no encontró pruebas de que la eliminación de la regla
+
+352
+00:19:02,199 --> 00:19:05,833
+estuviera ligada a esas donaciones o a ese almuerzo.
+
+353
+00:19:05,833 --> 00:19:07,649
+Pero las fechas están ahí.
+
+354
+00:19:07,650 --> 00:19:12,771
+El 3 de diciembre de 2025, el Gobierno publicó oficialmente la eliminación del
+
+355
+00:19:12,771 --> 00:19:15,857
+mínimo de horas y de la enfermera las 24 horas.
+
+356
+00:19:15,857 --> 00:19:18,417
+Entró en vigor el 2 de febrero de 2026.
+
+357
+00:19:18,417 --> 00:19:22,620
+Además, el Congreso prohibió aplicar esos requisitos hasta 2034.
+
+358
+00:19:23,620 --> 00:19:27,554
+Ahora, separemos lo que está probado de lo que es acusación.
+
+359
+00:19:27,554 --> 00:19:29,850
+Lo probado en documentos oficiales:
+
+360
+00:19:29,850 --> 00:19:34,965
+los 48 millones del acuerdo de 2013, las cifras de ingresos y ganancias que la
+
+361
+00:19:34,965 --> 00:19:40,277
+propia empresa reporta, el sueldo de su director, y la eliminación de la regla de
+
+362
+00:19:40,277 --> 00:19:41,327
+personal mínimo.
+
+363
+00:19:41,327 --> 00:19:45,983
+Todo lo demás que le contamos son las conclusiones de una investigación
+
+364
+00:19:45,983 --> 00:19:48,803
+periodística, de demandas y de testimonios.
+
+365
+00:19:48,803 --> 00:19:51,295
+Ensign no respondió a los periodistas.
+
+366
+00:19:51,295 --> 00:19:56,476
+Su director ejecutivo dijo en 2023 que las decisiones de personal las toma cada
+
+367
+00:19:56,476 --> 00:20:01,723
+centro, y que la idea de que la empresa desvía dinero para aumentar ganancias es
+
+368
+00:20:01,723 --> 00:20:03,297
+"categóricamente falsa".
+
+369
+00:20:03,297 --> 00:20:08,740
+Aunque, en sus llamadas con inversionistas, la empresa ha hablado de tener acceso a
+
+370
+00:20:08,740 --> 00:20:13,199
+datos de cada paciente y de participar en decisiones de cada centro.
+
+371
+00:20:13,200 --> 00:20:17,977
+¿Y por qué debería importarle esto en España o en cualquier otro país?
+
+372
+00:20:17,977 --> 00:20:21,594
+Porque este modelo no es exclusivo de Estados Unidos.
+
+373
+00:20:21,594 --> 00:20:27,258
+Comprar centros, separar el edificio de la operación, cobrar por lo que el paciente
+
+374
+00:20:27,258 --> 00:20:32,922
+necesita y no por lo que recibe, y medir la calidad con datos que reporta la propia
+
+375
+00:20:32,922 --> 00:20:33,468
+empresa…
+
+376
+00:20:33,468 --> 00:20:39,200
+son decisiones que se pueden tomar en cualquier sistema donde el dinero público paga
+
+377
+00:20:39,200 --> 00:20:42,340
+a empresas privadas para cuidar a los mayores.
+
+378
+00:20:42,340 --> 00:20:47,867
+En España, el debate sobre cuánto personal hay en las residencias ya se vivió con
+
+379
+00:20:47,867 --> 00:20:50,120
+mucha fuerza durante la pandemia.
+
+380
+00:20:50,120 --> 00:20:55,493
+Así que, si algún día le toca elegir una residencia para alguien que quiere, haga
+
+381
+00:20:55,493 --> 00:20:58,479
+tres preguntas que esta historia deja claras.
+
+382
+00:20:58,479 --> 00:20:58,744
+Una:
+
+383
+00:20:58,744 --> 00:21:03,189
+¿cuántas horas de enfermería por residente al día tienen de verdad?
+
+384
+00:21:03,189 --> 00:21:03,454
+Dos:
+
+385
+00:21:03,454 --> 00:21:07,634
+¿qué dice la inspección independiente, no solo la nota general?
+
+386
+00:21:07,634 --> 00:21:08,098
+Y tres:
+
+387
+00:21:08,098 --> 00:21:12,610
+¿quién es el dueño del edificio y quién es el dueño de la operación?
+
+388
+00:21:12,610 --> 00:21:17,444
+Porque en este negocio, como en tantos otros que hemos contado aquí, el dinero
+
+389
+00:21:17,444 --> 00:21:18,684
+siempre deja huella.
+
+390
+00:21:18,684 --> 00:21:22,588
+Y el problema casi nunca es que no encontremos a los tramposos.
+
+391
+00:21:22,588 --> 00:21:25,750
+Es que, cuando los encontramos, los dejamos seguir.
+
+392
+00:21:25,750 --> 00:21:31,617
+Si esta historia le hizo pensar, compártala con alguien que tenga a un familiar en
+
+393
+00:21:31,617 --> 00:21:32,690
+una residencia.
+
+394
+00:21:32,690 --> 00:21:34,408
+Y suscríbase a Cashtory:
+
+395
+00:21:34,408 --> 00:21:39,918
+cada semana le contamos una historia real de dinero que vale la pena conocer.
+
+396
+00:21:39,918 --> 00:21:41,635
+Nos vemos en la próxima.
+
+397
+00:21:41,635 --> 00:21:41,850
+---
