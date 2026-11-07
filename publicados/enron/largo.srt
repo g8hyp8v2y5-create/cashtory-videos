@@ -1,0 +1,763 @@
+1
+00:00:00,000 --> 00:00:06,694
+Imagina que es lunes, son las ocho de la mañana, y acabas de recibir en tu cuenta de
+
+2
+00:00:06,694 --> 00:00:11,397
+ahorro para el retiro el dinero de toda tu vida de trabajo.
+
+3
+00:00:11,397 --> 00:00:16,020
+Ahora imagina que en menos de un año ese dinero vale cero.
+
+4
+00:00:16,470 --> 00:00:21,626
+Eso le pasó a más de diez mil personas que trabajaban para una sola empresa.
+
+5
+00:00:21,626 --> 00:00:23,593
+Esta es la historia de Enron:
+
+6
+00:00:23,593 --> 00:00:29,156
+cómo un gigante de la energía se convirtió, en pocos meses, en la quiebra contable
+
+7
+00:00:29,156 --> 00:00:32,210
+más grande que se había visto hasta entonces.
+
+8
+00:00:33,660 --> 00:00:39,486
+Todo empezó en 1985, en Houston, Texas, cuando dos empresas de gasoductos, Houston
+
+9
+00:00:39,486 --> 00:00:42,327
+Natural Gas e InterNorth, se fusionaron.
+
+10
+00:00:42,327 --> 00:00:48,296
+De esa unión nació Enron, dirigida por Kenneth Lay, un ejecutivo que venía del mundo
+
+11
+00:00:48,296 --> 00:00:53,980
+de la energía y que soñaba con algo mucho más grande que vender gas por tubería.
+
+12
+00:00:55,430 --> 00:00:59,965
+En los años noventa, Enron dejó de ser solo una empresa de gasoductos.
+
+13
+00:00:59,965 --> 00:01:05,149
+Empezó a comerciar con contratos de energía como si fueran acciones en la bolsa:
+
+14
+00:01:05,149 --> 00:01:10,203
+compraba y vendía electricidad, gas y hasta capacidad de internet antes de que
+
+15
+00:01:10,203 --> 00:01:12,730
+existiera, apostando a precios futuros.
+
+16
+00:01:13,180 --> 00:01:18,030
+La revista Fortune, una de las publicaciones de negocios más influyentes de Estados
+
+17
+00:01:18,030 --> 00:01:22,940
+Unidos, la nombró "la empresa más innovadora de América" durante seis años seguidos.
+
+18
+00:01:24,390 --> 00:01:29,410
+La persona clave de ese cambio fue Jeffrey Skilling, un consultor que llegó a Enron
+
+19
+00:01:29,410 --> 00:01:31,526
+con una idea que parecía brillante:
+
+20
+00:01:31,526 --> 00:01:36,365
+en lugar de contar las ganancias cuando el dinero realmente entraba a la cuenta,
+
+21
+00:01:36,365 --> 00:01:41,385
+propuso contarlas el día que se firmaba el contrato, incluso si ese contrato duraba
+
+22
+00:01:41,385 --> 00:01:42,111
+veinte años.
+
+23
+00:01:42,111 --> 00:01:46,950
+A esa técnica se le llama contabilidad "mark-to-market", o "a valor de mercado".
+
+24
+00:01:48,400 --> 00:01:50,110
+¿Por qué era tan peligroso?
+
+25
+00:01:50,110 --> 00:01:55,307
+Porque Enron podía inventar, dentro de lo que la ley permitía al principio, cuánto
+
+26
+00:01:55,307 --> 00:02:00,376
+iba a ganar en el futuro con un contrato, y anotar esa ganancia hoy mismo en sus
+
+27
+00:02:00,376 --> 00:02:00,820
+libros.
+
+28
+00:02:01,270 --> 00:02:06,941
+Si el negocio después no salía tan bien como se calculó, ese hueco no desaparecía:
+
+29
+00:02:06,941 --> 00:02:10,261
+solo se escondía más adentro de la contabilidad.
+
+30
+00:02:10,261 --> 00:02:15,655
+Cuanto más crecía Enron, más ganancias futuras necesitaba inventar para seguir
+
+31
+00:02:15,655 --> 00:02:16,970
+pareciendo exitosa.
+
+32
+00:02:18,420 --> 00:02:23,371
+Dentro de las oficinas de Enron en Houston se vivía una cultura de presión
+
+33
+00:02:23,371 --> 00:02:24,041
+constante:
+
+34
+00:02:24,041 --> 00:02:29,595
+cada seis meses se evaluaba a los empleados y el diez por ciento con peor resultado
+
+35
+00:02:29,595 --> 00:02:34,480
+era despedido, sin importar qué tan bien les hubiera ido en otra empresa.
+
+36
+00:02:34,930 --> 00:02:40,019
+Esa presión empujaba a buscar formas cada vez más agresivas de mostrar resultados,
+
+37
+00:02:40,019 --> 00:02:42,130
+aunque fueran resultados de papel.
+
+38
+00:02:43,579 --> 00:02:48,524
+Para esconder la deuda real que esas apuestas estaban generando, Enron necesitaba
+
+39
+00:02:48,524 --> 00:02:50,661
+algo más que contabilidad creativa:
+
+40
+00:02:50,661 --> 00:02:53,652
+necesitaba sacar esa deuda de sus propios libros.
+
+41
+00:02:53,652 --> 00:02:58,780
+La persona encargada de lograrlo fue Andrew Fastow, el director financiero, nombrado
+
+42
+00:02:58,780 --> 00:03:03,115
+"Director Financiero del Año" por una revista especializada en finanzas
+
+43
+00:03:03,115 --> 00:03:08,059
+corporativas, sin que nadie supiera todavía lo que realmente estaba construyendo.
+
+44
+00:03:09,509 --> 00:03:15,099
+Fastow creó decenas de sociedades con nombres como LJM, Chewco o los "Raptors":
+
+45
+00:03:15,099 --> 00:03:20,618
+empresas fantasma que, en teoría, eran independientes de Enron, pero que en la
+
+46
+00:03:20,618 --> 00:03:22,670
+práctica él mismo controlaba.
+
+47
+00:03:23,119 --> 00:03:27,964
+A esas sociedades les "vendía" activos y deudas que no estaban rindiendo, de forma
+
+48
+00:03:27,964 --> 00:03:32,809
+que desaparecían de los libros contables de Enron, aunque el riesgo seguía siendo,
+
+49
+00:03:32,809 --> 00:03:34,700
+en el fondo, de la propia Enron.
+
+50
+00:03:36,149 --> 00:03:41,274
+Para que una de estas sociedades contara legalmente como "independiente", la ley de
+
+51
+00:03:41,274 --> 00:03:46,091
+ese momento exigía que al menos un tres por ciento de su capital viniera de un
+
+52
+00:03:46,091 --> 00:03:47,449
+inversor externo real.
+
+53
+00:03:47,449 --> 00:03:52,512
+Fastow cumplía ese requisito mínimo con socios de confianza, y con eso bastaba, en
+
+54
+00:03:52,512 --> 00:03:57,390
+el papel, para que los auditores y los reguladores dejaran pasar el resto de la
+
+55
+00:03:57,390 --> 00:03:58,069
+estructura.
+
+56
+00:03:59,519 --> 00:04:04,576
+Todo esto pasaba frente a los ojos de Arthur Andersen, una de las cinco firmas de
+
+57
+00:04:04,576 --> 00:04:09,695
+auditoría más grandes del mundo en ese momento, encargada de revisar y aprobar las
+
+58
+00:04:09,695 --> 00:04:11,319
+cuentas de Enron cada año.
+
+59
+00:04:11,319 --> 00:04:14,627
+El problema es que Andersen no solo auditaba a Enron:
+
+60
+00:04:14,627 --> 00:04:19,309
+también le cobraba millones de dólares al año por servicios de consultoría.
+
+61
+00:04:19,309 --> 00:04:23,679
+Cuestionar demasiado a tu cliente más rentable no era un buen negocio.
+
+62
+00:04:25,129 --> 00:04:28,527
+A comienzos de 2001, Enron seguía pareciendo imparable:
+
+63
+00:04:28,527 --> 00:04:33,346
+su acción llegó a valer más de noventa dólares, y la empresa era vista en Wall
+
+64
+00:04:33,346 --> 00:04:35,569
+Street como un modelo de innovación.
+
+65
+00:04:36,019 --> 00:04:40,987
+Pero dentro de la compañía, algunos empleados empezaban a hacer preguntas incómodas
+
+66
+00:04:40,987 --> 00:04:43,979
+sobre esas sociedades que nadie entendía del todo.
+
+67
+00:04:45,429 --> 00:04:50,732
+En agosto de 2001, Jeffrey Skilling, que para entonces ya era director general de
+
+68
+00:04:50,732 --> 00:04:54,988
+Enron, renunció de forma sorpresiva, alegando razones personales.
+
+69
+00:04:54,988 --> 00:04:57,541
+La noticia inquietó a varios empleados:
+
+70
+00:04:57,541 --> 00:05:02,516
+¿por qué dejar el cargo más alto de la empresa justo cuando, según la propia
+
+71
+00:05:02,516 --> 00:05:04,349
+compañía, todo iba tan bien?
+
+72
+00:05:05,799 --> 00:05:10,950
+Un día después de esa renuncia, una vicepresidenta de Enron llamada Sherron Watkins
+
+73
+00:05:10,950 --> 00:05:15,914
+escribió un memo de siete páginas dirigido a Kenneth Lay, que había vuelto a ser
+
+74
+00:05:15,914 --> 00:05:16,969
+director general.
+
+75
+00:05:16,969 --> 00:05:22,057
+En ese documento advertía que la empresa podía, en sus propias palabras, "estallar
+
+76
+00:05:22,057 --> 00:05:27,145
+en una ola de escándalos contables" si no se revisaban esas sociedades creadas por
+
+77
+00:05:27,145 --> 00:05:27,579
+Fastow.
+
+78
+00:05:29,029 --> 00:05:31,929
+Kenneth Lay se reunió con Watkins semanas después.
+
+79
+00:05:31,929 --> 00:05:36,511
+Según su propio testimonio posterior en el juicio, él le prometió investigar el
+
+80
+00:05:36,511 --> 00:05:37,381
+asunto a fondo.
+
+81
+00:05:37,381 --> 00:05:42,137
+Pero, en lugar de encargar esa investigación a abogados totalmente independientes,
+
+82
+00:05:42,137 --> 00:05:47,009
+se la encargó al mismo bufete que había ayudado a diseñar varias de esas sociedades.
+
+83
+00:05:47,459 --> 00:05:52,184
+Lay sostuvo durante años que actuó de buena fe con la información que tenía en ese
+
+84
+00:05:52,184 --> 00:05:56,159
+momento; el jurado, más adelante, llegaría a una conclusión distinta.
+
+85
+00:05:57,609 --> 00:05:59,985
+Detente un segundo a pensar en esto:
+
+86
+00:05:59,985 --> 00:06:04,867
+tienes en tus manos una advertencia escrita de que tu propia empresa puede
+
+87
+00:06:04,867 --> 00:06:07,044
+desmoronarse por fraude contable.
+
+88
+00:06:07,044 --> 00:06:12,190
+¿Qué habrías hecho tú, sentado en esa silla de director general, con ese papel
+
+89
+00:06:12,190 --> 00:06:14,830
+delante y miles de empleos de por medio?
+
+90
+00:06:16,279 --> 00:06:19,163
+Kenneth Lay eligió no detener nada.
+
+91
+00:06:19,163 --> 00:06:22,459
+Y la cuenta regresiva ya había empezado.
+
+92
+00:06:23,909 --> 00:06:29,401
+El 16 de octubre de 2001, Enron anunció una pérdida de 638 millones de dólares y una
+
+93
+00:06:29,401 --> 00:06:34,500
+reducción de 1.200 millones de dólares en el valor de sus acciones de capital,
+
+94
+00:06:34,500 --> 00:06:38,096
+relacionada directamente con esas sociedades de Fastow.
+
+95
+00:06:38,096 --> 00:06:43,326
+Días después, la Comisión de Bolsa y Valores de Estados Unidos, el regulador que
+
+96
+00:06:43,326 --> 00:06:48,229
+vigila a las empresas que cotizan en bolsa, abrió una investigación formal.
+
+97
+00:06:49,679 --> 00:06:51,791
+A partir de ahí, todo se aceleró.
+
+98
+00:06:51,791 --> 00:06:56,973
+La acción de Enron, que meses antes había valido más de noventa dólares, cayó por
+
+99
+00:06:56,973 --> 00:06:59,659
+debajo de un dólar en cuestión de semanas.
+
+100
+00:07:00,109 --> 00:07:04,556
+Los empleados vieron cómo sus ahorros para el retiro, buena parte invertidos
+
+101
+00:07:04,556 --> 00:07:09,178
+obligatoriamente en acciones de la propia empresa, se evaporaban delante de sus
+
+102
+00:07:09,178 --> 00:07:13,858
+ojos, mientras varios directivos habían vendido sus propias acciones antes de la
+
+103
+00:07:13,858 --> 00:07:14,209
+caída.
+
+104
+00:07:15,659 --> 00:07:20,484
+El 2 de diciembre de 2001, Enron se declaró en quiebra bajo el Capítulo 11 de la ley
+
+105
+00:07:20,484 --> 00:07:22,380
+de bancarrotas de Estados Unidos.
+
+106
+00:07:22,380 --> 00:07:27,090
+En ese momento fue la mayor quiebra corporativa en la historia del país, un récord
+
+107
+00:07:27,090 --> 00:07:31,799
+que duraría apenas un año, hasta la quiebra de otra empresa de telecomunicaciones.
+
+108
+00:07:33,249 --> 00:07:38,783
+Más de diez mil empleados perdieron en conjunto más de mil millones de dólares en
+
+109
+00:07:38,783 --> 00:07:40,217
+sus planes de retiro.
+
+110
+00:07:40,217 --> 00:07:42,130
+No fue un error del mercado:
+
+111
+00:07:42,130 --> 00:07:47,390
+fue consecuencia directa de que la empresa les exigía mantener sus ahorros en
+
+112
+00:07:47,390 --> 00:07:52,855
+acciones de Enron y, durante semanas críticas, les impidió venderlas mientras el
+
+113
+00:07:52,855 --> 00:07:54,289
+precio se desplomaba.
+
+114
+00:07:54,739 --> 00:08:00,491
+Años después, una demanda colectiva logró un acuerdo de 85 millones de dólares para
+
+115
+00:08:00,491 --> 00:08:04,579
+esos extrabajadores, una fracción de lo que habían perdido.
+
+116
+00:08:06,029 --> 00:08:10,882
+Mientras la investigación avanzaba, dentro de las oficinas de Arthur Andersen en
+
+117
+00:08:10,882 --> 00:08:15,978
+Houston comenzó la destrucción masiva de documentos relacionados con la auditoría de
+
+118
+00:08:15,978 --> 00:08:16,342
+Enron.
+
+119
+00:08:16,342 --> 00:08:21,316
+La firma alegó después que solo seguía su política normal de manejo de documentos;
+
+120
+00:08:21,316 --> 00:08:26,351
+los fiscales dijeron que era un intento de obstruir la justicia justo cuando sabían
+
+121
+00:08:26,351 --> 00:08:28,049
+que venía una investigación.
+
+122
+00:08:29,499 --> 00:08:34,506
+En 2002, el Departamento de Justicia de Estados Unidos acusó formalmente a Arthur
+
+123
+00:08:34,506 --> 00:08:36,855
+Andersen de obstrucción a la justicia.
+
+124
+00:08:36,855 --> 00:08:39,699
+La firma fue declarada culpable ese mismo año.
+
+125
+00:08:39,699 --> 00:08:44,458
+La condena, por sí sola, bastó para que miles de clientes alrededor del mundo
+
+126
+00:08:44,458 --> 00:08:46,993
+abandonaran a Andersen casi de inmediato:
+
+127
+00:08:46,993 --> 00:08:52,000
+una firma que empleaba a 85.000 personas prácticamente desapareció en cuestión de
+
+128
+00:08:52,000 --> 00:08:55,399
+meses, antes incluso de que terminara el proceso legal.
+
+129
+00:08:56,849 --> 00:09:02,207
+Lo que pocos recuerdan es que, en 2005, la Corte Suprema de Estados Unidos revisó el
+
+130
+00:09:02,207 --> 00:09:07,373
+caso y revocó por unanimidad la condena de Arthur Andersen, al considerar que las
+
+131
+00:09:07,373 --> 00:09:12,730
+instrucciones que el juez le había dado al jurado fueron demasiado confusas para una
+
+132
+00:09:12,730 --> 00:09:14,070
+condena penal válida.
+
+133
+00:09:14,520 --> 00:09:16,623
+Pero para entonces ya no importaba:
+
+134
+00:09:16,623 --> 00:09:21,613
+la firma ya se había desintegrado, sus empleados ya habían perdido su trabajo, y su
+
+135
+00:09:21,613 --> 00:09:25,400
+nombre ya estaba asociado para siempre con el colapso de Enron.
+
+136
+00:09:26,850 --> 00:09:32,179
+El gobierno de Estados Unidos creó un equipo especial de fiscales, conocido como el
+
+137
+00:09:32,179 --> 00:09:36,867
+"Enron Task Force", dedicado exclusivamente a investigar y procesar a los
+
+138
+00:09:36,867 --> 00:09:37,702
+responsables.
+
+139
+00:09:37,702 --> 00:09:42,967
+En los años siguientes, más de veinte antiguos ejecutivos de Enron fueron acusados
+
+140
+00:09:42,967 --> 00:09:46,050
+de distintos delitos relacionados con el fraude.
+
+141
+00:09:47,500 --> 00:09:52,821
+En 2004, Andrew Fastow se declaró culpable de fraude y conspiración, y aceptó
+
+142
+00:09:52,821 --> 00:09:58,556
+colaborar con los fiscales a cambio de una posible reducción de condena, entregando
+
+143
+00:09:58,556 --> 00:10:02,357
+además 23,8 millones de dólares como parte del acuerdo.
+
+144
+00:10:02,357 --> 00:10:06,780
+Su testimonio terminaría siendo clave contra sus antiguos jefes.
+
+145
+00:10:08,230 --> 00:10:13,802
+El gran juicio contra Kenneth Lay y Jeffrey Skilling comenzó en enero de 2006, en
+
+146
+00:10:13,802 --> 00:10:15,797
+una corte federal de Houston.
+
+147
+00:10:15,797 --> 00:10:21,439
+Durante meses, fiscales y testigos, incluido el propio Fastow, reconstruyeron ante
+
+148
+00:10:21,439 --> 00:10:26,805
+el jurado cómo se había armado todo el esquema de las sociedades fantasma y la
+
+149
+00:10:26,805 --> 00:10:28,250
+contabilidad inflada.
+
+150
+00:10:29,700 --> 00:10:35,038
+El 25 de mayo de 2006, el jurado declaró a Jeffrey Skilling culpable de 19 de los 28
+
+151
+00:10:35,038 --> 00:10:39,232
+cargos en su contra, entre ellos conspiración y fraude de valores.
+
+152
+00:10:39,232 --> 00:10:44,506
+Kenneth Lay fue declarado culpable de los seis cargos que enfrentaba en ese juicio,
+
+153
+00:10:44,506 --> 00:10:49,463
+incluyendo conspiración y fraude de valores, y el mismo día un juez lo declaró
+
+154
+00:10:49,463 --> 00:10:53,340
+también culpable, en un proceso separado, de fraude bancario.
+
+155
+00:10:54,790 --> 00:10:57,615
+Kenneth Lay nunca llegó a ser sentenciado.
+
+156
+00:10:57,615 --> 00:11:03,267
+El 5 de julio de 2006, murió de un infarto en su casa de Colorado, mientras esperaba
+
+157
+00:11:03,267 --> 00:11:04,950
+la fecha de su sentencia.
+
+158
+00:11:05,400 --> 00:11:10,188
+Como murió antes de poder agotar sus apelaciones, un juez vació formalmente su
+
+159
+00:11:10,188 --> 00:11:15,222
+condena meses después, bajo una regla legal que dice que un proceso penal no puede
+
+160
+00:11:15,222 --> 00:11:17,740
+continuar contra alguien que ya falleció.
+
+161
+00:11:19,190 --> 00:11:22,646
+Jeffrey Skilling, en cambio, sí fue sentenciado:
+
+162
+00:11:22,646 --> 00:11:27,110
+24 años de prisión, la condena más dura de todo el caso Enron.
+
+163
+00:11:27,110 --> 00:11:32,942
+En 2013, después de años de apelaciones, aceptó un acuerdo con los fiscales en el
+
+164
+00:11:32,942 --> 00:11:38,990
+que renunció a 45 millones de dólares y abandonó más apelaciones, a cambio de que su
+
+165
+00:11:38,990 --> 00:11:41,150
+condena se redujera a 14 años.
+
+166
+00:11:42,600 --> 00:11:47,665
+Andrew Fastow, pese a haber sido el arquitecto de buena parte del esquema, recibió
+
+167
+00:11:47,665 --> 00:11:51,001
+la condena más corta entre los principales implicados:
+
+168
+00:11:51,001 --> 00:11:55,819
+seis años de prisión, menos de los diez que había aceptado originalmente en su
+
+169
+00:11:55,819 --> 00:12:00,638
+acuerdo de culpabilidad, en reconocimiento a su colaboración con los fiscales.
+
+170
+00:12:00,638 --> 00:12:05,580
+En la audiencia de su sentencia, dijo estar "avergonzado" de lo que había hecho.
+
+171
+00:12:07,030 --> 00:12:11,876
+El escándalo de Enron, junto con el de otra gran empresa de telecomunicaciones que
+
+172
+00:12:11,876 --> 00:12:16,663
+quebró poco después, llevó al Congreso de Estados Unidos a aprobar en 2002 la Ley
+
+173
+00:12:16,663 --> 00:12:17,550
+Sarbanes-Oxley.
+
+174
+00:12:18,000 --> 00:12:23,325
+Esta ley obliga a los directores generales y financieros de las empresas que cotizan
+
+175
+00:12:23,325 --> 00:12:28,524
+en bolsa a firmar personalmente que sus estados financieros son exactos, bajo pena
+
+176
+00:12:28,524 --> 00:12:33,723
+de prisión si mienten, y creó un organismo nuevo encargado de vigilar a las firmas
+
+177
+00:12:33,723 --> 00:12:36,260
+de auditoría, algo que antes no existía.
+
+178
+00:12:37,710 --> 00:12:42,643
+¿Qué significa todo esto para alguien que no es ejecutivo de una gran empresa?
+
+179
+00:12:42,643 --> 00:12:45,489
+Que hoy existen reglas que antes no existían:
+
+180
+00:12:45,489 --> 00:12:50,296
+límites a cuánto de tu ahorro para el retiro puede estar obligado a estar en
+
+181
+00:12:50,296 --> 00:12:55,292
+acciones de tu propia empresa, auditores con un organismo independiente que los
+
+182
+00:12:55,292 --> 00:13:00,478
+vigila, y ejecutivos que, al firmar un reporte financiero falso, firman también su
+
+183
+00:13:00,478 --> 00:13:02,313
+propia responsabilidad penal.
+
+184
+00:13:02,313 --> 00:13:04,590
+Nada de esto existía antes de Enron.
+
+185
+00:13:06,040 --> 00:13:09,671
+Enron no fue solo un fraude de ejecutivos lejanos:
+
+186
+00:13:09,671 --> 00:13:15,555
+fue la jubilación de miles de personas comunes, borrada en semanas por decisiones
+
+187
+00:13:15,555 --> 00:13:17,880
+que se tomaron a puerta cerrada.
+
+188
+00:13:18,330 --> 00:13:20,033
+Cuéntamelo en los comentarios:
+
+189
+00:13:20,033 --> 00:13:24,350
+¿tú habrías firmado esos papeles, o habrías sido la persona que dice que no?
+
+190
+00:13:24,800 --> 00:13:29,145
+Si te gustó el video o te pareció interesante, dale like y suscríbete.
+
+191
+00:13:29,145 --> 00:13:31,380
+No te cuesta nada y me ayudas mucho.
