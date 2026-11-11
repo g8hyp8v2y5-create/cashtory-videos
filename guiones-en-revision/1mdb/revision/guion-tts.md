@@ -15,8 +15,6 @@ Estilo: Presentadora de noticias económicas de última hora, voz femenina enér
 #### TRANSCRIPT
 Un fondo creado para el desarrollo de Malasia terminó financiando yates, joyas, fiestas en Las Vegas y, según la fiscalía de Estados Unidos, hasta una película de Hollywood. En total, cuatro mil quinientos millones de dólares desviados. Esta es la historia del escándalo 1MDB.
 
-Si es la primera vez que nos ves: aquí contamos historias reales de dinero y las noticias de economía y tecnología de España y Estados Unidos, siempre con la fuente oficial. Nada de consejos de inversión, solo los hechos. Suscríbete si te gustan las historias de fraudes que sí pasaron.
-
 1MDB, siglas de 1Malaysia Development Berhad, era un fondo soberano creado por el gobierno de Malasia en 2009 para invertir en proyectos de desarrollo del país, como infraestructura y energía. Lo supervisaba directamente el entonces primer ministro, Najib Razak.
 
 Según la fiscalía de Estados Unidos, entre 2009 y 2014 se desviaron al menos cuatro mil quinientos millones de dólares del fondo, a través de una red compleja de empresas y cuentas bancarias en distintos países.
